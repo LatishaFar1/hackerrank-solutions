@@ -21,3 +21,5 @@ def lonelyinteger(array):
             return integer
      #This solution has a time complexity of O(n), where n is the number of elements in the array./n
      # It uses a dictionary to store the count of each element, and then it iterates through the dictionary to find the element that occurs only once.
+
+

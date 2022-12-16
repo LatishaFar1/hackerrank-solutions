@@ -1,3 +1,3 @@
 # hackerrank-solutions
 
-my solutions to hackerrank problems
+my solutions to hackerrank problems along with explanations
