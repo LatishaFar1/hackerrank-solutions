@@ -13,8 +13,10 @@ This would output the following to the console:
 3
 4
 5
-You can also specify a step size as the third argument to the range() function. For example, the following code would print the even numbers from 2 to 10:
 ```
+
+You can also specify a step size as the third argument to the range() function. For example, the following code would print the even numbers from 2 to 10:
+
 
 ``` 
 for i in range(2, 11, 2):
