@@ -21,9 +21,9 @@ You can also specify a step size as the third argument to the range() function. 
 ``` 
 for i in range(2, 11, 2):
     print(i)
-This would output the following to the console:
 ```
 
+This would output the following to the console:
 
 ```
 2
